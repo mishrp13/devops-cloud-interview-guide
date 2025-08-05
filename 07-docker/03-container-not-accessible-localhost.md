@@ -1,4 +1,4 @@
-## Port is Not Accessible on localhost even after Port mapping in Docker
+<img width="962" height="400" alt="image" src="https://github.com/user-attachments/assets/df598c69-26eb-44e7-a64c-47ffe53d39e3" />## Port is Not Accessible on localhost even after Port mapping in Docker
 
 ### Question  
 Port is not accessible on `localhost` even after using `-p` flag to publish it. How do you troubleshoot?
@@ -13,6 +13,8 @@ I would check if the application inside the container is actually listening on t
 
 Publishing a port using `-p` (e.g., `-p 8080:80`) tells Docker to forward traffic from the host's port 8080 to the container's port 80.  
 But if the app inside the container is listening only on `localhost (127.0.0.1)`, it won’t accept traffic from outside — not even from the Docker port forwarding.
+
+..
 
 ---
 
