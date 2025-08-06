@@ -1,3 +1,23 @@
+
+![Uploading image.png…]()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Docker host is running out of disk space. How do you clean up?
 
 ### Question  
