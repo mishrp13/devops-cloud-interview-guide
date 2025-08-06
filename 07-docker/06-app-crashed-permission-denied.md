@@ -1,3 +1,23 @@
+
+<img width="1182" height="531" alt="image" src="https://github.com/user-attachments/assets/78c5817f-7951-4ddb-a633-71d8bc8afe28" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## App Crashes with "Permission Denied" in Container but works fine on localhost
 
 ### Question  
