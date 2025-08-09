@@ -1,3 +1,21 @@
+
+<img width="1308" height="436" alt="image" src="https://github.com/user-attachments/assets/1c43ca33-8773-46ef-866d-c3d9658aed10" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Question  
 Talk about 5 build targets that you use on a day-to-day basis in Maven.
 
