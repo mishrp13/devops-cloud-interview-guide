@@ -1,3 +1,19 @@
+
+
+<img width="1376" height="467" alt="image" src="https://github.com/user-attachments/assets/bfc795ca-416d-4972-93b1-6435ce4fa13b" />
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Question  
 What are Jenkins Shared Libraries and how do they work?
 
