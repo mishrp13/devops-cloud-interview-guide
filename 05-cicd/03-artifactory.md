@@ -16,6 +16,12 @@
 
 
 
+
+In current Organisation we use Nexus or Jfrog artifact repository. As we are having Java application  and we generally create the jar or war file out of this.
+Let's say we want to read the csv file and we have jar file somewhere in public repo then we can use that jar file to read the csv file and then we can store that
+build  to our artifact repo. So that next time when developer want to have want that jar file to read thr csv file they won't be download the jar file from public repo instead they can download it from artifact repo. Mostly we use artifact repo to get the records of versioning and we can download the application of different version from there.
+
+
 ## Question  
 Which artifact repository do you use for builds?
 
