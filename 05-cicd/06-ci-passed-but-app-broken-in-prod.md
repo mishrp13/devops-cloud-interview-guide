@@ -18,6 +18,13 @@
 
 
 
+
+
+Actions I will take:
+1. will check if it is failing because we are recieving massive traffic in Prod then we do performance or Load testing in staging.
+2. If possible we can change the Deployment Strategy to canary model of deployment.
+3. we can check cicd pipelines and check the build steps.
+
 ## Question  
 CI Pipeline Succeeds but App is Broken in Prod — What Action Will You Take?
 
