@@ -1,3 +1,23 @@
+
+<img width="1006" height="557" alt="image" src="https://github.com/user-attachments/assets/70b509e2-eca7-463d-b2d1-9ef989bbaef2" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Question  
 CI Pipeline Succeeds but App is Broken in Prod — What Action Will You Take?
 
