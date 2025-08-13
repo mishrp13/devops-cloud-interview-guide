@@ -24,6 +24,14 @@
 
 
 
+check:
+1. Logs
+2. dependency caching
+3. environment variable in CI Pipeline
+   
+
+
+
 ## Question  
 Build Passed Locally but Fails in CI — How Will You Troubleshoot?
 
