@@ -1,3 +1,21 @@
+<img width="1221" height="437" alt="image" src="https://github.com/user-attachments/assets/61491e08-68f8-40e5-ad20-572f66aa41e6" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Question  
 Pipeline Slows Down Over Time (Builds taking more time) — How Will You Fix?
 
