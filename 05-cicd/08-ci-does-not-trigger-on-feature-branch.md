@@ -1,3 +1,21 @@
+
+<img width="1248" height="613" alt="image" src="https://github.com/user-attachments/assets/f6c6095d-dc87-4b3f-ae98-d70857cb9808" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Question  
 A developer pushes a feature branch, but the pipeline doesn’t trigger in GitHub Actions. What could be wrong?
 
