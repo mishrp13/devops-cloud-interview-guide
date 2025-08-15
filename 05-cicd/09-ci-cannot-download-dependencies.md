@@ -1,3 +1,23 @@
+<img width="1292" height="485" alt="image" src="https://github.com/user-attachments/assets/98271dc0-3747-45ca-959d-9d6a07af99c3" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Question  
 Your build fails because it can’t download a dependency from your artifact repository. What will you do?
 
