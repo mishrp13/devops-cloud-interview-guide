@@ -18,6 +18,10 @@
 
 
 
+solution:
+1. will go to nexus repo and check the version of that dependency is available in pom.xml path and if its not availabe then download there.
+2. go to setting.xml and check nexus repo is configured properly there.
+
 ## Question  
 Your build fails because it can’t download a dependency from your artifact repository. What will you do?
 
