@@ -1,3 +1,29 @@
+
+
+
+<img width="923" height="557" alt="image" src="https://github.com/user-attachments/assets/199e1760-6a7c-4987-a96a-f01de43bf086" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Question  
 When a build fails in Jenkins, how will you send an email?
 
