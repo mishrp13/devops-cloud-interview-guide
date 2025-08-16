@@ -1,3 +1,24 @@
+
+<img width="1312" height="362" alt="image" src="https://github.com/user-attachments/assets/2df2ef7c-6d8d-46b5-94d9-c86ce3037873" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Question  
 Static Code Analysis Slows Down CI Pipeline — How Will You Fix It?
 
