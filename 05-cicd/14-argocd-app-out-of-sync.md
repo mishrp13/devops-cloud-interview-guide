@@ -1,3 +1,25 @@
+
+<img width="1091" height="385" alt="image" src="https://github.com/user-attachments/assets/0edb6d79-00b1-40e2-82e3-3b24e08a9ad9" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Question  
 App in ‘OutOfSync’ State in Argo CD, But No Git Changes — What Could Be the Reason?
 
