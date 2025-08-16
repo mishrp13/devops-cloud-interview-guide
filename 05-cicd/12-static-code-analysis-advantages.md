@@ -1,3 +1,24 @@
+
+<img width="1105" height="388" alt="image" src="https://github.com/user-attachments/assets/f179876d-2bc6-48b3-81c9-c7b04bb592fd" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Question  
 Using Static Code Analysis, what kind of problems can you identify?
 
