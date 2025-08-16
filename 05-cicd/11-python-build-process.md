@@ -27,9 +27,13 @@
 
 Steps for python to build:
 1.pyproject.toml for providing all the details such as project name,metadata etc.
+
 2.pip install build like we have mvn in java build
+
 3.python3 -m build for packaging that will create dist folder and inside this we will be having .whl as same as jar!
+
 4.pip install twine like we have nexus in java
+
 5.twine upload dist/* and this is to upload the artifact in pyPI!.
 
 ## Question  
