@@ -19,6 +19,10 @@
 
 
 
+sol:
+Mostly kubernetes file will be there in git and argocd used those files present in git and deploy them in kubernetes cluster for lets say payment microservice
+. Now if someone logs in Kubernetes cluster and manually changed the version in Kubernetes cluster then it will start showing out of sync and in that state
+we have to turn on sync option in argo cd and it will get synced.
 
 ## Question  
 App in ‘OutOfSync’ State in Argo CD, But No Git Changes — What Could Be the Reason?
