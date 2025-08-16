@@ -1,3 +1,29 @@
+
+<img width="1403" height="662" alt="image" src="https://github.com/user-attachments/assets/11ca4051-8066-40e0-a4d8-010e50045c0b" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Question  
 Explain the Python Application Build Process in Detail.
 
